@@ -4,7 +4,6 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-board',
   templateUrl: './board.component.html',
   styleUrls: ['./board.component.scss'],
-  styles: ['button { width: 100%; height: 100%; font-size: 5em !important; }'],
 })
 export class BoardComponent implements OnInit {
   squares: any[];

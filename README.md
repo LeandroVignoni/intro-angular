@@ -10,9 +10,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Deployment 
+<!-- ## Deployment 
 
 ng add @angular/fire
 ng add @angular/pwa
 ng build (can be done in nx console)
-ng deploy
+ng deploy -->

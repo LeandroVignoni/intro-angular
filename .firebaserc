@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tres-en-linea-d2e82": {
+      "hosting": {
+        "intro-angular": [
+          "tres-en-linea-d2e82"
+        ]
+      }
+    }
+  }
+}

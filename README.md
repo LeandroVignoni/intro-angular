@@ -1,6 +1,6 @@
-# IntroAngular
+# Intro Angular
+First steps in Angular, tres en linea web app, installable in your device as a traditional desktop app. Technologies used: Angular, Sass, Firebase, pwa service worker for Angular.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
 
 ## Development server
 
